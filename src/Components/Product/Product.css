@@ -1,0 +1,21 @@
+.product-items{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.product-text{
+    padding-left: 20px;
+}
+.product-text h2{
+    font-size: 18px;
+    color: blue;
+}
+.sell-btn{
+    background-color: yellowgreen;
+    width: 150px;
+    height: 35px;
+    border: 1px solid lightblue;
+    border-radius:5px;
+    box-shadow: 5px 5px  10px lightblue;
+    cursor: pointer;
+    margin-bottom: 20px;
+}

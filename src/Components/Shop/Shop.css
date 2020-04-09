@@ -1,0 +1,12 @@
+.product{
+    display: flex;
+}
+.single-product{
+    width: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid lightgray;
+}
+.product-card{
+    padding-left: 10px;
+}
